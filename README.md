@@ -16,12 +16,12 @@ Welcome to our Question and Answer Platform! This platform is designed to facili
 ## Getting Started
 To get started with our platform, follow these simple steps:
 ### Frontend Setup
-##### 1. Navigate to the `Question-and-Answer-Platform-Frontend` repo and clone it.
+##### 1. Clone this `Question-and-Answer-Platform-Frontend` repo 
 ##### 2. Install dependencies using `npm install`
 ##### 3. Run the development server using `npm run dev`.
 
 ### Backtend Setup
-##### 1. Clone this `Question-and-Answer-Platform-Backend` repo
+##### 1. Navigate to the `Question-and-Answer-Platform-Backend` repo and clone it.
 ##### 2. Set up your MySQL database and configure the database connection in `application.properties`.
 ##### 3. Build the Spring Boot application using your favorite IDE or Maven.
 ##### 4. Run the application, and the backend server will start on the configured port.
