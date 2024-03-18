@@ -21,7 +21,7 @@ To get started with our platform, follow these simple steps:
 ##### 3. Run the development server using `npm run dev`.
 
 ### Backtend Setup
-##### 1. Navigate to the `Question-and-Answer-Platform-Backend` repo and clone it
+##### 1. Clone this `Question-and-Answer-Platform-Backend` repo
 ##### 2. Set up your MySQL database and configure the database connection in `application.properties`.
 ##### 3. Build the Spring Boot application using your favorite IDE or Maven.
 ##### 4. Run the application, and the backend server will start on the configured port.
