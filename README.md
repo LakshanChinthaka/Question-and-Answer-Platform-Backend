@@ -38,7 +38,7 @@ To get started with our platform, follow these simple steps:
 ###  Question and Answer section
 ![image](https://github.com/LakshanChinthaka/Question-and-Answer-Platform-Frontend/assets/115285758/259e2d42-91ee-4a5d-b182-858afc086d81)
 
-### Each can see the likes 
+### Can see the likes 
 ![image](https://github.com/LakshanChinthaka/Question-and-Answer-Platform-Frontend/assets/115285758/3fea4281-68c3-44d2-b9ef-9878ba18d966)
 
 ### Reply box
